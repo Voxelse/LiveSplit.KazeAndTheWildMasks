@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Presets>
+  <Preset name="Default">
+    <Split name="Level_Lv1-01_CarrotCarnage"/>
+    <Split name="Level_Lv1-02_JellyJungle"/>
+    <Split name="Level_Lv1-03_WatchYourStepscccc"/>
+    <Split name="Level_Lv1-04_ThornyTree"/>
+    <Split name="Level_Lv1-05_VineClimb"/>
+    <Split name="Level_Lv1-06_LightsOnLightsOut"/>
+    <Split name="Level_Lv1-05-TubaraoIntro"/>
+    <Split name="Scene_Cutscene_BOSS1"/>
+    <Split name="Level_Lv2-01_SlidingSalad"/>
+    <Split name="Level_Lv2-02_SlingshotRide"/>
+    <Split name="Level_Lv2-03_BeetsAndBounces"/>
+    <Split name="Level_Lv2-04_TigrePopsicle"/>
+    <Split name="Level_Lv2-06_RopesOfHope"/>
+    <Split name="Level_Lv2-07_ArcticBlizzard"/>
+    <Split name="Level_Lv2-05_ForgottenMask"/>
+    <Split name="Level_Lv2-08_PumpkinPyre"/>
+    <Split name="Scene_Cutscene_BOSS2"/>
+    <Split name="Level_Lv3-01_FeelTheFlow"/>
+    <Split name="Level_Lv3-02_ZiplineZipvine"/>
+    <Split name="Level_Lv3-03_ScalesShowdown"/>
+    <Split name="Level_Lv3-04_FreeFall"/>
+    <Split name="Level_Lv3-05_GustyCliffs"/>
+    <Split name="Level_Lv3-06_ToxicLake"/>
+    <Split name="Level_Lv3-07_RideToHeaven"/>
+    <Split name="Level_Lv3-08_SprintOfSpirits"/>
+    <Split name="Scene_Cutscene_BOSS3"/>
+    <Split name="Level_Lv4-01_VulcanicStar"/>
+    <Split name="Level_Lv4-02_HurryHurricane"/>
+    <Split name="Level_Lv4-03_JellyDungeon"/>
+    <Split name="Level_Lv4-04_Ziplizard"/>
+    <Split name="Level_Lv4-05_HauntedLake"/>
+    <Split name="Level_Lv4-06_CircuitCapers"/>
+    <Split name="Level_Lv4-07_ScaldingGears"/>
+    <Split name="Level_Lv4-08_Bulletvator"/>
+    <Split name="Scene_Cutscene_BOSS4"/>
+  </Preset>
+</Presets>

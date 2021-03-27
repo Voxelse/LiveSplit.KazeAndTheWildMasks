@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Splits>
+  <Empty name="FG" text=" - - Forgotten Grove - - "/>
+  <Split name="Level_Lv1-01_CarrotCarnage" text="1-1 Cranky Carrots"/>
+  <Split name="Level_Lv1-02_JellyJungle" text="1-2 Jelly Jungle"/>
+  <Split name="Level_Lv1-03_WatchYourStepscccc" text="1-3 Watch Your Step"/>
+  <Split name="Level_Lv1-04_ThornyTree" text="1-4 Throny Tree"/>
+  <Split name="Level_Lv1-05_VineClimb" text="1-5 Vine Climb"/>
+  <Split name="Level_Lv1-06_LightsOnLightsOut" text="1-6 Lights On Lights Off"/>
+  <Split name="Level_Lv1-05-TubaraoIntro" text="1-7 Bean Bay"/>
+  <Split name="Scene_Cutscene_BOSS1" text="1-Boss Mother Mona"/>
+
+  <Empty name="FM" text=" - - Frozen Mountains - - "/>
+  <Split name="Level_Lv2-01_SlidingSalad" text="2-1 Sliding Salad"/>
+  <Split name="Level_Lv2-02_SlingshotRide" text="2-2 Slingshot Ride"/>
+  <Split name="Level_Lv2-03_BeetsAndBounces" text="2-3 Beets And Bounces"/>
+  <Split name="Level_Lv2-04_TigrePopsicle" text="2-4 Tiger Popsicle"/>
+  <Split name="Level_Lv2-06_RopesOfHope" text="2-5 Ropes Of Hope"/>
+  <Split name="Level_Lv2-07_ArcticBlizzard" text="2-6 Artic Blizzard"/>
+  <Split name="Level_Lv2-05_ForgottenMask" text="2-7 Forgotten Mask"/>
+  <Split name="Level_Lv2-08_PumpkinPyre" text="2-8 Pumpkin Pyre"/>
+  <Split name="Scene_Cutscene_BOSS2" text="2-Boss Buck's Brigade"/>
+
+  <Empty name="TT" text=" - - Toxic Tide - - "/>
+  <Split name="Level_Lv3-01_FeelTheFlow" text="3-1 Feel The Flow"/>
+  <Split name="Level_Lv3-02_ZiplineZipvine" text="3-2 Zipline Zipvine"/>
+  <Split name="Level_Lv3-03_ScalesShowdown" text="3-3 Scales Showdown"/>
+  <Split name="Level_Lv3-04_FreeFall" text="3-4 Free Fall"/>
+  <Split name="Level_Lv3-05_GustyCliffs" text="3-5 Gusty Cliffs"/>
+  <Split name="Level_Lv3-06_ToxicLake" text="3-6 Toxic Lake"/>
+  <Split name="Level_Lv3-07_RideToHeaven" text="3-7 Ride To Heaven"/>
+  <Split name="Level_Lv3-08_SprintOfSpirits" text="3-8 Sprint Of Spirits"/>
+  <Split name="Scene_Cutscene_BOSS3" text="3-Boss Olaf's Lair"/>
+  
+  <Empty name="CL" text=" - - Carrotland - - "/>
+  <Split name="Level_Lv4-01_VulcanicStar" text="4-1 Volcanic Star"/>
+  <Split name="Level_Lv4-02_HurryHurricane" text="4-2 Hurry Hurricane"/>
+  <Split name="Level_Lv4-03_JellyDungeon" text="4-3 Jelly Dungeon"/>
+  <Split name="Level_Lv4-04_Ziplizard" text="4-4 Ziplizard"/>
+  <Split name="Level_Lv4-05_HauntedLake" text="4-5 Haunted Lake"/>
+  <Split name="Level_Lv4-06_CircuitCapers" text="4-6 Circuit Capers"/>
+  <Split name="Level_Lv4-07_ScaldingGears" text="4-7 Scalding Gears"/>
+  <Split name="Level_Lv4-08_Bulletvator" text="4-8 Bulletvator"/>
+  <Split name="Scene_Cutscene_BOSS4" text="4-Boss Typhoons's Tussle"/>
+</Splits>

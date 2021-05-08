@@ -3,7 +3,7 @@
   <Empty name="FG" text=" - - Forgotten Grove - - "/>
   <Split name="Level_Lv1-01_CarrotCarnage" text="1-1 Cranky Carrots"/>
   <Split name="Level_Lv1-02_JellyJungle" text="1-2 Jelly Jungle"/>
-  <Split name="Level_Lv1-03_WatchYourStepscccc" text="1-3 Watch Your Step"/>
+  <Split name="Level_Lv1-03_WatchYourSteps" text="1-3 Watch Your Step"/>
   <Split name="Level_Lv1-04_ThornyTree" text="1-4 Throny Tree"/>
   <Split name="Level_Lv1-05_VineClimb" text="1-5 Vine Climb"/>
   <Split name="Level_Lv1-06_LightsOnLightsOut" text="1-6 Lights On Lights Off"/>
